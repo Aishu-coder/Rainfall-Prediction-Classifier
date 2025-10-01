@@ -33,3 +33,10 @@ It contains daily weather observations from numerous Australian weather stations
   - `scikit-learn` → machine learning models and evaluation  
 
 ---
+
+## 📊 Model & Results
+- Data preprocessing included handling missing values, encoding categorical features, and scaling.  
+- Several classifiers were tested (e.g., Logistic Regression, Random Forest, etc.).  
+- The final model was evaluated using **accuracy, precision, recall, and F1-score**.  
+
+---
